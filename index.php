@@ -35,26 +35,3 @@
 </html>
 
 
-
-<?php
-
-
-
-//   //echo $nome;
-//   if(isset($_GET['nome']) && isset($_GET['cognome'])){
-//     $name = $_GET['nome'];
-//     $cognome = $_GET['cognome'];
-//   } 
-//   else{
-//       $name = 'non so come ti chiamei';
-//       $cognome = 'non so come ti chiamei';
-//   }
-
-// $stringa = 'asdhf dffgjgj djdgjghf. rrjhjfd dolor dkfjkdfj dkfjkfd. ddd fff fff ddd.';
-
-// $replaceStringa = str_replace('dolor', '6060', $stringa); 
-
-// $explodere = explode('.', $replaceStringa);
-
-
-//
